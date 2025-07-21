@@ -13,10 +13,8 @@ Durante o desenvolvimento deste projeto, explorei os seguintes conceitos da ling
 - **Estrutura condicional `switch-case` (com setas `->`)**
   - Usada para selecionar as opções do menu.
 - **Declaração e uso de métodos**
-  - Separação de funcionalidades em métodos (`mostrarSaldo`, `deposito`, `saque`), promovendo legibilidade e reutilização.
+  - Separação de funcionalidades em métodos (`mostrarSaldo`, `deposito`, `saque`).
 - **Operações com variáveis e controle de fluxo**
   - Cálculos, validações de entrada e lógica condicional simples.
 - **Formatação de saída com `printf`**
   - Para exibir valores monetários com duas casas decimais.
-- **Encerramento correto do Scanner (`sc.close()`)**
-  - Boa prática para liberar recursos após o uso da entrada.
