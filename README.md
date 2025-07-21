@@ -1,6 +1,6 @@
 # 💸 Banco Java – Sistema Bancário Simples em Java
 
-Este projeto é um pequeno sistema bancário em linha de comando, desenvolvido como parte do meu aprendizado em **Java**. A aplicação permite visualizar saldo, fazer depósitos, realizar saques e encerrar o programa, tudo por meio de um menu interativo no terminal.
+Este projeto é um pequeno sistema bancário em linha de comando, desenvolvido como parte do meu aprendizado em **Java**. A aplicação permite visualizar saldo, fazer depósitos, realizar saques e encerrar o programa.
 
 ## 🧠 Conceitos utilizados
 
